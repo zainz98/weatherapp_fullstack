@@ -1,0 +1,20 @@
+.popWindow{
+    top: 30%;
+    left: 40%;
+    z-index: 10;
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 5px 5px 10px #000000;
+    background-color: #ffffff;
+    position: fixed;
+}
+
+.buttonClose{
+    color: inherit;
+    background-color: #facc87;
+}
+.buttonOk{
+    color: inherit;
+    background-color: #b4e6bb;
+}

@@ -1,0 +1,11 @@
+.courseList{
+    width: 70%;
+    font-size: 1rem;
+    text-align: left;
+    background-color: #64ccc7;
+    color: #454747;
+    margin: auto;
+}
+.courseList ul{
+    list-style: none;
+}

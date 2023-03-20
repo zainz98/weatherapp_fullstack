@@ -1,0 +1,14 @@
+.clickButton {
+  font: inherit;
+  color: inherit;
+  background-color: rgb(216, 184, 247);
+  border: solid 2px #000000;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 0.5rem 2rem;
+  margin: 0 1rem;
+}
+
+.h1, .h2 {
+  color: rgb(144, 120, 250);
+}

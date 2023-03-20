@@ -1,0 +1,13 @@
+body {
+  font-family:sans-serif;
+  margin: 3rem;
+  text-align: center;
+}
+button {
+  font: inherit;
+  border: solid 2px #000000;
+  border-radius: 2px;
+  cursor: pointer;
+  padding:  0.5rem 2rem;
+  margin: 0 1rem;
+}

@@ -1,0 +1,39 @@
+.courseItem{
+    display: flex;
+    padding-left: 1 rem;
+    margin: 10px 0;
+}
+
+
+.city{
+    width: 2%;
+    display: flex;
+    vertical-align: middle;
+}
+
+.country{
+    width: 10%;
+    display: flex;
+    vertical-align: middle;
+}
+
+.state{
+    width: 15%;
+    display: flex;
+    vertical-align: middle;
+}
+
+.selectCol{
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.selectCol button {
+    height: 2.5rem;
+    width: 80%;
+    
+}
+
